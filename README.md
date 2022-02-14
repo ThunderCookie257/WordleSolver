@@ -1,0 +1,2 @@
+# WordleSolver
+My Wordle Algorithm
